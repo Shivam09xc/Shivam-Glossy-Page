@@ -64,11 +64,11 @@ export const projects = [
     },
     {
         id: 8,
-        title: "Portfolio Website",
-        description: "The premium 3D personal portfolio you are currently viewing, featuring advanced animations and glassmorphism.",
-        tech: ["React", "Three.js", "Framer Motion", "Tailwind"],
-        github: "https://github.com/Shivam09xc/portfolio",
+        title: "Premium 3D Portfolio",
+        description: "My modern personal portfolio featuring high-gloss glassmorphism, interactive 3D elements, and seamless animations. (This Website)",
+        tech: ["React", "Vite", "TailwindCSS", "Three.js"],
+        github: "https://github.com/Shivam09xc/Shivam-Glossy-Page",
         live: "#",
-        image: "https://images.unsplash.com/photo-1545235617-9465d2a55698?w=800&q=80"
+        image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&q=80"
     }
 ];
